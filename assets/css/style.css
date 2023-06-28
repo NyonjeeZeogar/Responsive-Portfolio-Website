@@ -539,15 +539,19 @@ img {
 }
 
 .skills__mysql {
-    width: 85%;
+    width: 100%;
 }
 
 .skills__php {
-    width: 80%;
+    width: 100%;
 }
 
 .skills__git {
     width: 100%;
+}
+
+.skills__postsql {
+    width: 90%;
 }
 
 .skills__close .skills__list {
